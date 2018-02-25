@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getID()
+comment1.params=
+comment1.target=boolean\ pickup()
+comment2.params=sockSID
+comment2.target=boolean\ park(int)
+comment3.params=
+comment3.target=java.lang.String\ getDockingStationNo()
+comment4.params=
+comment4.target=int\ getNumberOfCycles()
+comment5.params=
+comment5.target=Cycle()
+comment6.params=min\ max
+comment6.target=int\ randomNumber(int,\ int)
+numComments=7

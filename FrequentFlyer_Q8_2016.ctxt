@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=number
+comment0.target=FrequentFlyer_Q8_2016(int)
+comment1.params=
+comment1.target=int\ getAccountNumber()
+comment2.params=
+comment2.target=int\ getBalance()
+comment3.params=
+comment3.target=int\ getTier()
+comment4.params=miles
+comment4.target=void\ addFlight(int)
+comment5.params=
+comment5.target=void\ endOfYear()
+comment6.params=points
+comment6.target=boolean\ redeemPoints(int)
+numComments=7

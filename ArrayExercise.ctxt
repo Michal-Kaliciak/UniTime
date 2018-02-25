@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=message\ incomingArray
+comment1.target=void\ printArrayElements(java.lang.String,\ int[])
+comment2.params=incomingArray
+comment2.target=int\ arraySum(int[])
+numComments=3

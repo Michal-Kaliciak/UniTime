@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=price
+comment0.target=void\ addItem(double)
+comment1.params=
+comment1.target=void\ clear()
+comment2.params=
+comment2.target=double\ getTotal()
+comment3.params=
+comment3.target=int\ getCount()
+comment4.params=
+comment4.target=CashRegister()
+numComments=5
